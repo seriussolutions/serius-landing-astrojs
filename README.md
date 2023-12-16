@@ -1,6 +1,9 @@
 
 ## 🚀 Project Structure
 
+![image](https://github.com/seriussolutions/serius-landing-astro-js/assets/150959570/7d35f5ee-35c5-4335-9adf-c9a88dbaf530)
+
+
 Inside of your Astro project, you'll see the following folders and files:
 
 ```
